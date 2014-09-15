@@ -1,1 +1,2 @@
 hello git
+Add dependency file wite hello2.txt
